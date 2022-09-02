@@ -14,3 +14,8 @@ p{
     padding: 20px;
     color: blueviolet;
 }
+main{
+    height: 500px;
+    width: 100%;
+    background-color: bisque;
+}
